@@ -1,9 +1,7 @@
 body {
   background-color: #fea279;
 }
-head {
-  background-color: #fea456
-}
+
 body{
   background: #FBD4C5;
 }
